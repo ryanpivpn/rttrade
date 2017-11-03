@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trading notes</title>
-    <link>http://example.org/</link>
+    <link>https://ryanpivpn.github.io/rttrade/</link>
     <description>Recent content on Trading notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Nov 2017 13:54:42 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryanpivpn.github.io/rttrade/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/post/first-post/</link>
+      <link>https://ryanpivpn.github.io/rttrade/post/first-post/</link>
       <pubDate>Fri, 03 Nov 2017 13:54:42 +0000</pubDate>
       
-      <guid>http://example.org/post/first-post/</guid>
+      <guid>https://ryanpivpn.github.io/rttrade/post/first-post/</guid>
       <description>Hello! Test page</description>
     </item>
     
