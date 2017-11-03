@@ -5,7 +5,7 @@ publishDir = "docs" # Directory to publish content after running 'hugo'
 paginate = 5 # Number of posts to show before paginating
 
 
-theme = "after-dark"
+theme = "kiss"
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics

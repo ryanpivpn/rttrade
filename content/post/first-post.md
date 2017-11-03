@@ -4,7 +4,6 @@ date: 2017-11-03T13:54:42Z
 draft: false
 ---
 
-# HVF
 Mark out:
   H1 L1
   H2 L2

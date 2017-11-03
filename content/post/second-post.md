@@ -1,10 +1,8 @@
 ---
-title: "Second post"
+title: "I Made The Most Money When I Just Sat"
 date: 2017-11-03T14:12:18Z
 draft: false
 ---
-
-# I Made The Most Money When I Just Sat
 
 One of the biggest elements and one of the most difficult and one that stymied me for an
 extended period is containing the pressure of compulsion, the need to be in the market. Great
