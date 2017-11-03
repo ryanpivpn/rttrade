@@ -12,31 +12,32 @@
     
     
     <item>
-      <title>Third Post</title>
+      <title>I Made The Most Money When I Just Sat</title>
       <link>https://ryanpivpn.github.io/rttrade/post/third-post/</link>
       <pubDate>Fri, 03 Nov 2017 21:20:54 +0000</pubDate>
       
       <guid>https://ryanpivpn.github.io/rttrade/post/third-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I Made The Most Money When I Just Sat</title>
-      <link>https://ryanpivpn.github.io/rttrade/post/second-post/</link>
-      <pubDate>Fri, 03 Nov 2017 14:12:18 +0000</pubDate>
-      
-      <guid>https://ryanpivpn.github.io/rttrade/post/second-post/</guid>
       <description>One of the biggest elements and one of the most difficult and one that stymied me for an extended period is containing the pressure of compulsion, the need to be in the market. Great quote from Jesse Livermore in the Reminiscences of a Stock Operator, &amp;ldquo;I made the most money when I just sat.&amp;rdquo; Learning that patience, learning to stand by your plan, not feeling the need that trading is consistent, regular, order entry, and tampering and tinkering.</description>
     </item>
     
     <item>
-      <title>HVF</title>
+      <title>HVF Strategy</title>
+      <link>https://ryanpivpn.github.io/rttrade/post/second-post/</link>
+      <pubDate>Fri, 03 Nov 2017 14:12:18 +0000</pubDate>
+      
+      <guid>https://ryanpivpn.github.io/rttrade/post/second-post/</guid>
+      <description>Mark out: H1 L1 H2 L2 H3 L3
+1&amp;frasl;2 way between H3 and L3, draw horizontal line, draw targets from there. Distance between H1 L1, H2 L2. Pending order at H3, stop loss at L3, or other way round if short.</description>
+    </item>
+    
+    <item>
+      <title>Definitions</title>
       <link>https://ryanpivpn.github.io/rttrade/post/first-post/</link>
       <pubDate>Fri, 03 Nov 2017 13:54:42 +0000</pubDate>
       
       <guid>https://ryanpivpn.github.io/rttrade/post/first-post/</guid>
-      <description>Mark out: H1 L1 H2 L2 H3 L3
-1&amp;frasl;2 way between H3 and L3, draw horizontal line, draw targets from there. Distance between H1 L1, H2 L2. Pending order at H3, stop loss at L3, or other way round if short.</description>
+      <description>Rally + Correction Rally Short upward movement in a bear market
+Correction Short downward movement in a bull market</description>
     </item>
     
   </channel>
