@@ -1,15 +1,15 @@
 ---
-title: "Definitions"
+title: "HVF"
 date: 2017-11-03T13:54:42Z
 draft: false
 ---
 
-# Rally + Correction
+# HVF
+Mark out:
+  H1 L1
+  H2 L2
+  H3 L3
 
-Rally
-
-Short upward movement in a bear market
-
-Correction
-
-Short downard movement in a bull market
+1/2 way between H3 and L3, draw horizontal line, draw targets from there.
+Distance between H1 L1, H2 L2.
+Pending order at H3, stop loss at L3, or other way round if short.
