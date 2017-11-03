@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Definitions on Trading notes</title>
+    <link>https://ryanpivpn.github.io/rttrade/definitions/</link>
+    <description>Recent content in Definitions on Trading notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ryanpivpn.github.io/rttrade/definitions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rally &#43; Correction</title>
+      <link>https://ryanpivpn.github.io/rttrade/definitions/first-post/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanpivpn.github.io/rttrade/definitions/first-post/</guid>
+      <description>Rally
+Short upward movement in a bear market
+Correction
+Short downward movement in a bull market</description>
+    </item>
+    
+  </channel>
+</rss>
