@@ -2,6 +2,8 @@
 title: "Definitions"
 date: 2017-11-03T13:54:42Z
 draft: false
+toc : false
+tags : ["Definitions", ""]
 ---
 
 # Rally + Correction

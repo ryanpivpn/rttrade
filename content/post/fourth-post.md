@@ -1,10 +1,9 @@
-+++
-title = "Terminology"
-date = 2017-12-02T23:19:41Z
-draft = false
-toc = false
-tags = ["Definitions", ""]
-+++
+---
+title : "Terminology"
+date : 2017-12-02T23:19:41Z
+draft : false
+tags : ["Definitions", ""]
+---
 
 # Stock
 A stock is a piece of ownership in a company. For instance, if you buy a stock in Walmart, you own a part of the retail store. Day traders buy company stocks with the aim of making profit at the end of the trading day.
